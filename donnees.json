@@ -1,0 +1,85 @@
+[
+	{
+	"name":"Bureau Des Elèves",
+	"age":"10",
+	"description": "Le BDE est l'association centrale de l'ENIB. </br>Elle est présente pour l'ensemble des étudiants, de l'intégration à la mise à disposition et l'entretien du foyer et du matériel qui s'y trouve en passant par les apéros, soirées à thème et autres joyeusetés. Nous somme également là pour faire le lien entre les étudiants et l'administration, vous proposer un tutorat ou encore vous permettre de vous amusez avec les autres écoles brestoises ! :) </br>Notre bureau se situe dans le foyer des élèves et nous restons constamment à votre disposition. Si nous n'y sommes pas, envoyez-nous un mail si vous avez besoin d'un renseignement ou si vous avez un disfonctionement à nous signaler par exemple. </br></br>Le BDE Odyssée vous fera vivre une merveilleuse année ! Rejoignez l'épopée ! ",
+	"img":"./bde.png", 
+	"slide1":"./bde1.png",
+	"slide2":"./bde2.jpg",
+	"slide3":"./bde3.jpg",
+	"url":"https://www.facebook.com/bde.enib/"
+},
+	{
+	"name":"Bureau Des Arts",
+	"age":"10",
+	"description":  " Journal, dessins, pinhata & bêtises",
+	"img":"./bda.jpg", 
+	"slide1":"./bda1.jpg",
+	"slide2":"./bda1.jpg",
+	"slide3":"./bda1.jpg",
+	"url":"https://www.facebook.com/bda.enib/"
+},
+	{
+	"name":"Bureau Des Sports",
+	"age":"10",
+	"description":  "Le PSG ils sont nuuuuuuls ! </br> Le Bureau des Sports propose divers sports aux enibiens : </br>Football, </br>Handball, </br>Basketball, </br>Volleyball, </br>Rugby, </br>Badminton... </br>Et bientôt de la natation et du tennis ;) </br> </br>Le BDS c'est aussi l'ENIB Street Challenge et un voyage au ski !! Et bien sûr le BDS organise des événements gustatifs de qualité tels que des barbecues succulents ou bien des sandwichs raclette savoureux ! ",
+	"img":"./bds.png", 
+	"slide1":"./bds1.jpg",
+	"slide2":"./bds5.jpg",
+	"slide3":"./bds6.jpg",
+	"url":"https://www.facebook.com/bdsenib/"
+},
+	{
+	"name":"ARENIB",
+	"age":"10",
+	"description":  "Association de Robotique de l'ENIB participation à la coupe de Robotique </br>Projets de robotique divers </br>Impression </br>3D/découpe laser ",
+	"img":"./arenib.png",
+	"slide1":"./arenib1.jpg",
+	"slide2":"./arenib2.jpg",
+	"slide3":"./arenib3.jpg", 
+	"url":"http://arenib.com/"
+}
+,
+	{
+	"name":"Horizon Ingénieur",
+	"age":"10",
+	"description":  "Vive Dudu <3 </br></br>L'association Horizon Ingénieur est la Junior de l'ENIB. </br>Nous mettons en contact les entreprises et les étudiants afin que ceux ci réalisent des projets rémunérés. Nous effectuons les démarches administratives afin que l'étudiant n'ait pas à s'en occuper et nous nous engageons à lui fournir un suivi de projet et une aide en cas de besoin. Nous sommes également garants de la qualité des projets rendus aux entreprises. ",
+	"img":"./HI.jpg", 
+	"url":"https://www.facebook.com/HorizonIngenieur/"
+},
+	{
+	"name":"Cafétéria Enib",
+	"age":"10",
+	"description":  "La meilleure cafet' de tout l'village ! </br></br>La cafétéria ENIB est située dans le foyer, elle vous propose à manger comme des barres chocolatées, des friandises, des sandwichs (Les Lundi, Mardi et Jeudi)... </br>Elle vous propose aussi à boire : des softs (tous les jours) et des bières pressions et bouteilles (tous les mercredi soir). ",
+	"img":"./cafet.jpg", 
+	"url":"https://www.facebook.com/Enib.bar/"
+},
+	{
+	"name":"ENIB Sailing Team",
+	"age":"10",
+	"description":  "Association des voileux de l'ENIB ",
+	"img":"./eole.png",
+	"slide1":"./eole1.jpg",
+	"slide2":"./eole2.jpg",
+	"slide3":"./eole3.jpg",
+	"url":"https://www.facebook.com/enibsailingteam1/"
+},
+	{
+	"name":"La Nuit de l.ENIB",
+	"age":"10",
+	"description":  "Best asso ever <3 </br>Association chargée de l'organisation de la cérémonie annuelle de remise du diplôme ingénieur ENIB et de la soirée gala qui s'en suit. ",
+	"img":"./gala.png", 
+	"slide1":"./gala1.jpg",
+	"slide2":"./gala2.jpg",
+	"slide3":"./gala3.jpg",
+	"url":"http://gala.enib.net"
+},
+	{
+	"name":"Jeux Inters ENIs",
+	"age":"10",
+	"description":  "Organisation des Jeux InterENI : évènement qui regroupe les différentes écoles du groupe ENI dans un tournoi sportif, accompagné de ses soirées bien évidemment.",
+	"img":"./inters.jpg", 
+	"slide1":"./inters1.jpg",
+	"url":"https://www.facebook.com/InterEniBrest/"
+}
+]
